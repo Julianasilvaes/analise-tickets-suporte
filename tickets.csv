@@ -1,0 +1,201 @@
+id_ticket,data_abertura,data_fechamento,cliente,segmento,sistema,tipo_chamado,prioridade,status,analista,tempo_resolucao_horas,satisfacao_cliente,reaberto
+TKT-001,2024-01-03,2024-01-03,Distribuidora Norte,Varejo,ERP,Dúvida de uso,Baixa,Fechado,Juliana M.,2,5,Não
+TKT-002,2024-01-04,2024-01-06,Clínica Saúde Total,Saúde,CRM,Erro no sistema,Alta,Fechado,Carlos A.,18,4,Não
+TKT-003,2024-01-05,2024-01-07,Grupo Alfa,Indústria,ERP,Falha de integração,Crítica,Fechado,Juliana M.,28,3,Sim
+TKT-004,2024-01-06,2024-01-06,Loja Express,Varejo,PDV,Dúvida de uso,Baixa,Fechado,Maria L.,1,5,Não
+TKT-005,2024-01-08,2024-01-10,TechParts Ltda,Indústria,ERP,Erro no sistema,Média,Fechado,Carlos A.,14,4,Não
+TKT-006,2024-01-09,2024-01-11,Farmácia Popular,Saúde,CRM,Configuração,Média,Fechado,Juliana M.,16,5,Não
+TKT-007,2024-01-10,2024-01-14,Construtora Beta,Construção,ERP,Falha de integração,Alta,Fechado,Maria L.,36,2,Sim
+TKT-008,2024-01-11,2024-01-11,Mercado União,Varejo,PDV,Dúvida de uso,Baixa,Fechado,Carlos A.,3,5,Não
+TKT-009,2024-01-12,2024-01-15,Hospital São Lucas,Saúde,CRM,Erro no sistema,Crítica,Fechado,Juliana M.,42,4,Não
+TKT-010,2024-01-13,2024-01-13,Distribuidora Norte,Varejo,ERP,Dúvida de uso,Baixa,Fechado,Maria L.,1,5,Não
+TKT-011,2024-01-15,2024-01-17,Grupo Alfa,Indústria,ERP,Configuração,Média,Fechado,Carlos A.,22,4,Não
+TKT-012,2024-01-16,2024-01-18,Clínica Saúde Total,Saúde,CRM,Erro no sistema,Alta,Fechado,Juliana M.,20,3,Sim
+TKT-013,2024-01-17,2024-01-17,Loja Express,Varejo,PDV,Dúvida de uso,Baixa,Fechado,Maria L.,2,5,Não
+TKT-014,2024-01-18,2024-01-22,TechParts Ltda,Indústria,ERP,Falha de integração,Crítica,Fechado,Carlos A.,48,3,Sim
+TKT-015,2024-01-19,2024-01-21,Farmácia Popular,Saúde,CRM,Configuração,Média,Fechado,Juliana M.,14,5,Não
+TKT-016,2024-01-22,2024-01-23,Mercado União,Varejo,PDV,Erro no sistema,Média,Fechado,Maria L.,10,4,Não
+TKT-017,2024-01-23,2024-01-25,Construtora Beta,Construção,ERP,Falha de integração,Alta,Fechado,Carlos A.,30,3,Não
+TKT-018,2024-01-24,2024-01-24,Distribuidora Norte,Varejo,ERP,Dúvida de uso,Baixa,Fechado,Juliana M.,2,5,Não
+TKT-019,2024-01-25,2024-01-28,Hospital São Lucas,Saúde,CRM,Erro no sistema,Crítica,Fechado,Maria L.,40,4,Não
+TKT-020,2024-01-26,2024-01-26,Loja Express,Varejo,PDV,Dúvida de uso,Baixa,Fechado,Carlos A.,1,5,Não
+TKT-021,2024-01-29,2024-01-31,Grupo Alfa,Indústria,ERP,Configuração,Média,Fechado,Juliana M.,18,4,Não
+TKT-022,2024-01-30,2024-02-02,Clínica Saúde Total,Saúde,CRM,Falha de integração,Alta,Fechado,Maria L.,32,3,Sim
+TKT-023,2024-02-01,2024-02-01,Distribuidora Norte,Varejo,PDV,Dúvida de uso,Baixa,Fechado,Carlos A.,2,5,Não
+TKT-024,2024-02-02,2024-02-05,TechParts Ltda,Indústria,ERP,Erro no sistema,Alta,Fechado,Juliana M.,24,4,Não
+TKT-025,2024-02-05,2024-02-07,Farmácia Popular,Saúde,CRM,Configuração,Média,Fechado,Maria L.,16,5,Não
+TKT-026,2024-02-06,2024-02-06,Mercado União,Varejo,PDV,Dúvida de uso,Baixa,Fechado,Carlos A.,1,5,Não
+TKT-027,2024-02-07,2024-02-10,Construtora Beta,Construção,ERP,Falha de integração,Crítica,Fechado,Juliana M.,52,2,Sim
+TKT-028,2024-02-08,2024-02-09,Hospital São Lucas,Saúde,CRM,Erro no sistema,Alta,Fechado,Maria L.,22,4,Não
+TKT-029,2024-02-09,2024-02-09,Loja Express,Varejo,PDV,Dúvida de uso,Baixa,Fechado,Carlos A.,2,5,Não
+TKT-030,2024-02-12,2024-02-14,Grupo Alfa,Indústria,ERP,Configuração,Média,Fechado,Juliana M.,20,4,Não
+TKT-031,2024-02-13,2024-02-16,Clínica Saúde Total,Saúde,CRM,Erro no sistema,Alta,Fechado,Maria L.,28,3,Não
+TKT-032,2024-02-14,2024-02-14,Distribuidora Norte,Varejo,PDV,Dúvida de uso,Baixa,Fechado,Carlos A.,1,5,Não
+TKT-033,2024-02-15,2024-02-19,TechParts Ltda,Indústria,ERP,Falha de integração,Crítica,Fechado,Juliana M.,60,2,Sim
+TKT-034,2024-02-16,2024-02-18,Farmácia Popular,Saúde,CRM,Configuração,Média,Fechado,Maria L.,18,5,Não
+TKT-035,2024-02-19,2024-02-19,Mercado União,Varejo,PDV,Dúvida de uso,Baixa,Fechado,Carlos A.,2,5,Não
+TKT-036,2024-02-20,2024-02-23,Construtora Beta,Construção,ERP,Erro no sistema,Alta,Fechado,Juliana M.,26,4,Não
+TKT-037,2024-02-21,2024-02-21,Hospital São Lucas,Saúde,CRM,Dúvida de uso,Baixa,Fechado,Maria L.,3,5,Não
+TKT-038,2024-02-22,2024-02-26,Loja Express,Varejo,PDV,Falha de integração,Alta,Fechado,Carlos A.,38,3,Sim
+TKT-039,2024-02-23,2024-02-25,Grupo Alfa,Indústria,ERP,Configuração,Média,Fechado,Juliana M.,22,4,Não
+TKT-040,2024-02-26,2024-02-28,Distribuidora Norte,Varejo,ERP,Erro no sistema,Média,Fechado,Maria L.,12,4,Não
+TKT-041,2024-02-27,2024-03-01,Clínica Saúde Total,Saúde,CRM,Falha de integração,Alta,Fechado,Carlos A.,34,3,Não
+TKT-042,2024-02-28,2024-02-28,Mercado União,Varejo,PDV,Dúvida de uso,Baixa,Fechado,Juliana M.,1,5,Não
+TKT-043,2024-03-01,2024-03-04,TechParts Ltda,Indústria,ERP,Erro no sistema,Alta,Fechado,Maria L.,26,4,Não
+TKT-044,2024-03-04,2024-03-06,Farmácia Popular,Saúde,CRM,Configuração,Média,Fechado,Carlos A.,16,5,Não
+TKT-045,2024-03-05,2024-03-05,Loja Express,Varejo,PDV,Dúvida de uso,Baixa,Fechado,Juliana M.,2,5,Não
+TKT-046,2024-03-06,2024-03-10,Construtora Beta,Construção,ERP,Falha de integração,Crítica,Fechado,Maria L.,54,2,Sim
+TKT-047,2024-03-07,2024-03-09,Hospital São Lucas,Saúde,CRM,Erro no sistema,Alta,Fechado,Carlos A.,20,4,Não
+TKT-048,2024-03-08,2024-03-08,Distribuidora Norte,Varejo,PDV,Dúvida de uso,Baixa,Fechado,Juliana M.,1,5,Não
+TKT-049,2024-03-11,2024-03-14,Grupo Alfa,Indústria,ERP,Falha de integração,Crítica,Fechado,Maria L.,44,3,Sim
+TKT-050,2024-03-12,2024-03-13,Clínica Saúde Total,Saúde,CRM,Configuração,Média,Fechado,Carlos A.,12,5,Não
+TKT-051,2024-03-13,2024-03-13,Mercado União,Varejo,PDV,Dúvida de uso,Baixa,Fechado,Juliana M.,2,5,Não
+TKT-052,2024-03-14,2024-03-18,TechParts Ltda,Indústria,ERP,Erro no sistema,Alta,Fechado,Maria L.,30,3,Não
+TKT-053,2024-03-15,2024-03-17,Farmácia Popular,Saúde,CRM,Falha de integração,Alta,Fechado,Carlos A.,28,4,Não
+TKT-054,2024-03-18,2024-03-18,Loja Express,Varejo,PDV,Dúvida de uso,Baixa,Fechado,Juliana M.,1,5,Não
+TKT-055,2024-03-19,2024-03-22,Construtora Beta,Construção,ERP,Erro no sistema,Média,Fechado,Maria L.,14,4,Não
+TKT-056,2024-03-20,2024-03-23,Hospital São Lucas,Saúde,CRM,Falha de integração,Crítica,Fechado,Carlos A.,46,3,Sim
+TKT-057,2024-03-21,2024-03-21,Distribuidora Norte,Varejo,PDV,Dúvida de uso,Baixa,Fechado,Juliana M.,2,5,Não
+TKT-058,2024-03-22,2024-03-26,Grupo Alfa,Indústria,ERP,Erro no sistema,Alta,Fechado,Maria L.,36,3,Não
+TKT-059,2024-03-25,2024-03-27,Clínica Saúde Total,Saúde,CRM,Configuração,Média,Fechado,Carlos A.,18,5,Não
+TKT-060,2024-03-26,2024-03-26,Mercado União,Varejo,PDV,Dúvida de uso,Baixa,Fechado,Juliana M.,1,5,Não
+TKT-061,2024-03-27,2024-03-31,TechParts Ltda,Indústria,ERP,Falha de integração,Crítica,Fechado,Maria L.,56,2,Sim
+TKT-062,2024-03-28,2024-03-30,Farmácia Popular,Saúde,CRM,Erro no sistema,Alta,Fechado,Carlos A.,24,4,Não
+TKT-063,2024-03-29,2024-03-29,Loja Express,Varejo,PDV,Dúvida de uso,Baixa,Fechado,Juliana M.,2,5,Não
+TKT-064,2024-04-01,2024-04-04,Construtora Beta,Construção,ERP,Configuração,Média,Fechado,Maria L.,20,4,Não
+TKT-065,2024-04-02,2024-04-05,Hospital São Lucas,Saúde,CRM,Falha de integração,Alta,Fechado,Carlos A.,32,3,Sim
+TKT-066,2024-04-03,2024-04-03,Distribuidora Norte,Varejo,PDV,Dúvida de uso,Baixa,Fechado,Juliana M.,1,5,Não
+TKT-067,2024-04-04,2024-04-08,Grupo Alfa,Indústria,ERP,Erro no sistema,Alta,Fechado,Maria L.,38,3,Não
+TKT-068,2024-04-05,2024-04-07,Clínica Saúde Total,Saúde,CRM,Configuração,Média,Fechado,Carlos A.,16,5,Não
+TKT-069,2024-04-08,2024-04-08,Mercado União,Varejo,PDV,Dúvida de uso,Baixa,Fechado,Juliana M.,2,5,Não
+TKT-070,2024-04-09,2024-04-13,TechParts Ltda,Indústria,ERP,Falha de integração,Crítica,Fechado,Maria L.,62,2,Sim
+TKT-071,2024-04-10,2024-04-12,Farmácia Popular,Saúde,CRM,Erro no sistema,Alta,Fechado,Carlos A.,22,4,Não
+TKT-072,2024-04-11,2024-04-11,Loja Express,Varejo,PDV,Dúvida de uso,Baixa,Fechado,Juliana M.,1,5,Não
+TKT-073,2024-04-12,2024-04-16,Construtora Beta,Construção,ERP,Falha de integração,Crítica,Fechado,Maria L.,58,2,Sim
+TKT-074,2024-04-15,2024-04-17,Hospital São Lucas,Saúde,CRM,Configuração,Média,Fechado,Carlos A.,18,5,Não
+TKT-075,2024-04-16,2024-04-16,Distribuidora Norte,Varejo,PDV,Dúvida de uso,Baixa,Fechado,Juliana M.,2,5,Não
+TKT-076,2024-04-17,2024-04-21,Grupo Alfa,Indústria,ERP,Erro no sistema,Alta,Fechado,Maria L.,40,3,Não
+TKT-077,2024-04-18,2024-04-20,Clínica Saúde Total,Saúde,CRM,Falha de integração,Alta,Fechado,Carlos A.,28,3,Sim
+TKT-078,2024-04-19,2024-04-19,Mercado União,Varejo,PDV,Dúvida de uso,Baixa,Fechado,Juliana M.,1,5,Não
+TKT-079,2024-04-22,2024-04-25,TechParts Ltda,Indústria,ERP,Configuração,Média,Fechado,Maria L.,24,4,Não
+TKT-080,2024-04-23,2024-04-25,Farmácia Popular,Saúde,CRM,Erro no sistema,Alta,Fechado,Carlos A.,26,4,Não
+TKT-081,2024-04-24,2024-04-24,Loja Express,Varejo,PDV,Dúvida de uso,Baixa,Fechado,Juliana M.,2,5,Não
+TKT-082,2024-04-25,2024-04-29,Construtora Beta,Construção,ERP,Falha de integração,Crítica,Fechado,Maria L.,50,2,Sim
+TKT-083,2024-04-26,2024-04-28,Hospital São Lucas,Saúde,CRM,Erro no sistema,Alta,Fechado,Carlos A.,20,4,Não
+TKT-084,2024-04-29,2024-04-29,Distribuidora Norte,Varejo,PDV,Dúvida de uso,Baixa,Fechado,Juliana M.,1,5,Não
+TKT-085,2024-04-30,2024-05-03,Grupo Alfa,Indústria,ERP,Configuração,Média,Fechado,Maria L.,22,4,Não
+TKT-086,2024-05-02,2024-05-05,Clínica Saúde Total,Saúde,CRM,Falha de integração,Alta,Fechado,Carlos A.,36,3,Não
+TKT-087,2024-05-03,2024-05-03,Mercado União,Varejo,PDV,Dúvida de uso,Baixa,Fechado,Juliana M.,2,5,Não
+TKT-088,2024-05-06,2024-05-10,TechParts Ltda,Indústria,ERP,Erro no sistema,Crítica,Fechado,Maria L.,64,2,Sim
+TKT-089,2024-05-07,2024-05-09,Farmácia Popular,Saúde,CRM,Configuração,Média,Fechado,Carlos A.,16,5,Não
+TKT-090,2024-05-08,2024-05-08,Loja Express,Varejo,PDV,Dúvida de uso,Baixa,Fechado,Juliana M.,1,5,Não
+TKT-091,2024-05-09,2024-05-13,Construtora Beta,Construção,ERP,Falha de integração,Crítica,Fechado,Maria L.,52,3,Sim
+TKT-092,2024-05-10,2024-05-12,Hospital São Lucas,Saúde,CRM,Erro no sistema,Alta,Fechado,Carlos A.,24,4,Não
+TKT-093,2024-05-13,2024-05-13,Distribuidora Norte,Varejo,PDV,Dúvida de uso,Baixa,Fechado,Juliana M.,2,5,Não
+TKT-094,2024-05-14,2024-05-17,Grupo Alfa,Indústria,ERP,Erro no sistema,Alta,Fechado,Maria L.,34,3,Não
+TKT-095,2024-05-15,2024-05-17,Clínica Saúde Total,Saúde,CRM,Configuração,Média,Fechado,Carlos A.,18,5,Não
+TKT-096,2024-05-16,2024-05-16,Mercado União,Varejo,PDV,Dúvida de uso,Baixa,Fechado,Juliana M.,1,5,Não
+TKT-097,2024-05-17,2024-05-21,TechParts Ltda,Indústria,ERP,Falha de integração,Crítica,Fechado,Maria L.,58,2,Sim
+TKT-098,2024-05-20,2024-05-22,Farmácia Popular,Saúde,CRM,Erro no sistema,Alta,Fechado,Carlos A.,22,4,Não
+TKT-099,2024-05-21,2024-05-21,Loja Express,Varejo,PDV,Dúvida de uso,Baixa,Fechado,Juliana M.,2,5,Não
+TKT-100,2024-05-22,2024-05-26,Construtora Beta,Construção,ERP,Falha de integração,Alta,Fechado,Maria L.,40,3,Sim
+TKT-101,2024-05-23,2024-05-25,Hospital São Lucas,Saúde,CRM,Configuração,Média,Fechado,Carlos A.,16,5,Não
+TKT-102,2024-05-24,2024-05-24,Distribuidora Norte,Varejo,PDV,Dúvida de uso,Baixa,Fechado,Juliana M.,1,5,Não
+TKT-103,2024-05-27,2024-05-30,Grupo Alfa,Indústria,ERP,Erro no sistema,Alta,Fechado,Maria L.,26,4,Não
+TKT-104,2024-05-28,2024-05-30,Clínica Saúde Total,Saúde,CRM,Falha de integração,Alta,Fechado,Carlos A.,30,3,Não
+TKT-105,2024-05-29,2024-05-29,Mercado União,Varejo,PDV,Dúvida de uso,Baixa,Fechado,Juliana M.,2,5,Não
+TKT-106,2024-05-30,2024-06-03,TechParts Ltda,Indústria,ERP,Erro no sistema,Crítica,Fechado,Maria L.,62,2,Sim
+TKT-107,2024-05-31,2024-06-02,Farmácia Popular,Saúde,CRM,Configuração,Média,Fechado,Carlos A.,20,5,Não
+TKT-108,2024-06-03,2024-06-03,Loja Express,Varejo,PDV,Dúvida de uso,Baixa,Fechado,Juliana M.,1,5,Não
+TKT-109,2024-06-04,2024-06-08,Construtora Beta,Construção,ERP,Falha de integração,Crítica,Fechado,Maria L.,56,2,Sim
+TKT-110,2024-06-05,2024-06-07,Hospital São Lucas,Saúde,CRM,Erro no sistema,Alta,Fechado,Carlos A.,22,4,Não
+TKT-111,2024-06-06,2024-06-06,Distribuidora Norte,Varejo,PDV,Dúvida de uso,Baixa,Fechado,Juliana M.,2,5,Não
+TKT-112,2024-06-07,2024-06-11,Grupo Alfa,Indústria,ERP,Configuração,Média,Fechado,Maria L.,28,4,Não
+TKT-113,2024-06-10,2024-06-12,Clínica Saúde Total,Saúde,CRM,Falha de integração,Alta,Fechado,Carlos A.,32,3,Sim
+TKT-114,2024-06-11,2024-06-11,Mercado União,Varejo,PDV,Dúvida de uso,Baixa,Fechado,Juliana M.,1,5,Não
+TKT-115,2024-06-12,2024-06-16,TechParts Ltda,Indústria,ERP,Erro no sistema,Alta,Fechado,Maria L.,36,3,Não
+TKT-116,2024-06-13,2024-06-15,Farmácia Popular,Saúde,CRM,Configuração,Média,Fechado,Carlos A.,18,5,Não
+TKT-117,2024-06-14,2024-06-14,Loja Express,Varejo,PDV,Dúvida de uso,Baixa,Fechado,Juliana M.,2,5,Não
+TKT-118,2024-06-17,2024-06-21,Construtora Beta,Construção,ERP,Falha de integração,Crítica,Fechado,Maria L.,60,2,Sim
+TKT-119,2024-06-18,2024-06-20,Hospital São Lucas,Saúde,CRM,Erro no sistema,Alta,Fechado,Carlos A.,24,4,Não
+TKT-120,2024-06-19,2024-06-19,Distribuidora Norte,Varejo,PDV,Dúvida de uso,Baixa,Fechado,Juliana M.,1,5,Não
+TKT-121,2024-06-20,2024-06-24,Grupo Alfa,Indústria,ERP,Configuração,Média,Fechado,Maria L.,20,4,Não
+TKT-122,2024-06-21,2024-06-23,Clínica Saúde Total,Saúde,CRM,Erro no sistema,Alta,Fechado,Carlos A.,26,4,Não
+TKT-123,2024-06-24,2024-06-24,Mercado União,Varejo,PDV,Dúvida de uso,Baixa,Fechado,Juliana M.,2,5,Não
+TKT-124,2024-06-25,2024-06-29,TechParts Ltda,Indústria,ERP,Falha de integração,Crítica,Fechado,Maria L.,54,2,Sim
+TKT-125,2024-06-26,2024-06-28,Farmácia Popular,Saúde,CRM,Configuração,Média,Fechado,Carlos A.,16,5,Não
+TKT-126,2024-06-27,2024-06-27,Loja Express,Varejo,PDV,Dúvida de uso,Baixa,Fechado,Juliana M.,1,5,Não
+TKT-127,2024-06-28,2024-07-02,Construtora Beta,Construção,ERP,Erro no sistema,Alta,Fechado,Maria L.,38,3,Não
+TKT-128,2024-07-01,2024-07-03,Hospital São Lucas,Saúde,CRM,Falha de integração,Alta,Fechado,Carlos A.,34,3,Sim
+TKT-129,2024-07-02,2024-07-02,Distribuidora Norte,Varejo,PDV,Dúvida de uso,Baixa,Fechado,Juliana M.,2,5,Não
+TKT-130,2024-07-03,2024-07-07,Grupo Alfa,Indústria,ERP,Erro no sistema,Alta,Fechado,Maria L.,42,3,Não
+TKT-131,2024-07-04,2024-07-06,Clínica Saúde Total,Saúde,CRM,Configuração,Média,Fechado,Carlos A.,18,5,Não
+TKT-132,2024-07-05,2024-07-05,Mercado União,Varejo,PDV,Dúvida de uso,Baixa,Fechado,Juliana M.,1,5,Não
+TKT-133,2024-07-08,2024-07-12,TechParts Ltda,Indústria,ERP,Falha de integração,Crítica,Fechado,Maria L.,64,2,Sim
+TKT-134,2024-07-09,2024-07-11,Farmácia Popular,Saúde,CRM,Erro no sistema,Alta,Fechado,Carlos A.,22,4,Não
+TKT-135,2024-07-10,2024-07-10,Loja Express,Varejo,PDV,Dúvida de uso,Baixa,Fechado,Juliana M.,2,5,Não
+TKT-136,2024-07-11,2024-07-15,Construtora Beta,Construção,ERP,Falha de integração,Crítica,Fechado,Maria L.,58,2,Sim
+TKT-137,2024-07-12,2024-07-14,Hospital São Lucas,Saúde,CRM,Erro no sistema,Alta,Fechado,Carlos A.,20,4,Não
+TKT-138,2024-07-15,2024-07-15,Distribuidora Norte,Varejo,PDV,Dúvida de uso,Baixa,Fechado,Juliana M.,1,5,Não
+TKT-139,2024-07-16,2024-07-19,Grupo Alfa,Indústria,ERP,Configuração,Média,Fechado,Maria L.,24,4,Não
+TKT-140,2024-07-17,2024-07-19,Clínica Saúde Total,Saúde,CRM,Falha de integração,Alta,Fechado,Carlos A.,30,3,Não
+TKT-141,2024-07-18,2024-07-18,Mercado União,Varejo,PDV,Dúvida de uso,Baixa,Fechado,Juliana M.,2,5,Não
+TKT-142,2024-07-19,2024-07-23,TechParts Ltda,Indústria,ERP,Erro no sistema,Crítica,Fechado,Maria L.,60,2,Sim
+TKT-143,2024-07-22,2024-07-24,Farmácia Popular,Saúde,CRM,Configuração,Média,Fechado,Carlos A.,16,5,Não
+TKT-144,2024-07-23,2024-07-23,Loja Express,Varejo,PDV,Dúvida de uso,Baixa,Fechado,Juliana M.,1,5,Não
+TKT-145,2024-07-24,2024-07-28,Construtora Beta,Construção,ERP,Falha de integração,Crítica,Fechado,Maria L.,56,2,Sim
+TKT-146,2024-07-25,2024-07-27,Hospital São Lucas,Saúde,CRM,Erro no sistema,Alta,Fechado,Carlos A.,24,4,Não
+TKT-147,2024-07-26,2024-07-26,Distribuidora Norte,Varejo,PDV,Dúvida de uso,Baixa,Fechado,Juliana M.,2,5,Não
+TKT-148,2024-07-29,2024-08-01,Grupo Alfa,Indústria,ERP,Erro no sistema,Alta,Fechado,Maria L.,36,3,Não
+TKT-149,2024-07-30,2024-08-01,Clínica Saúde Total,Saúde,CRM,Configuração,Média,Fechado,Carlos A.,18,5,Não
+TKT-150,2024-07-31,2024-07-31,Mercado União,Varejo,PDV,Dúvida de uso,Baixa,Fechado,Juliana M.,1,5,Não
+TKT-151,2024-08-01,2024-08-05,TechParts Ltda,Indústria,ERP,Falha de integração,Crítica,Fechado,Maria L.,62,2,Sim
+TKT-152,2024-08-02,2024-08-04,Farmácia Popular,Saúde,CRM,Erro no sistema,Alta,Fechado,Carlos A.,22,4,Não
+TKT-153,2024-08-05,2024-08-05,Loja Express,Varejo,PDV,Dúvida de uso,Baixa,Fechado,Juliana M.,2,5,Não
+TKT-154,2024-08-06,2024-08-10,Construtora Beta,Construção,ERP,Falha de integração,Alta,Fechado,Maria L.,48,3,Sim
+TKT-155,2024-08-07,2024-08-09,Hospital São Lucas,Saúde,CRM,Configuração,Média,Fechado,Carlos A.,16,5,Não
+TKT-156,2024-08-08,2024-08-08,Distribuidora Norte,Varejo,PDV,Dúvida de uso,Baixa,Fechado,Juliana M.,1,5,Não
+TKT-157,2024-08-09,2024-08-13,Grupo Alfa,Indústria,ERP,Erro no sistema,Alta,Fechado,Maria L.,38,3,Não
+TKT-158,2024-08-12,2024-08-14,Clínica Saúde Total,Saúde,CRM,Falha de integração,Alta,Fechado,Carlos A.,32,3,Sim
+TKT-159,2024-08-13,2024-08-13,Mercado União,Varejo,PDV,Dúvida de uso,Baixa,Fechado,Juliana M.,2,5,Não
+TKT-160,2024-08-14,2024-08-18,TechParts Ltda,Indústria,ERP,Erro no sistema,Crítica,Fechado,Maria L.,58,2,Sim
+TKT-161,2024-08-15,2024-08-17,Farmácia Popular,Saúde,CRM,Configuração,Média,Fechado,Carlos A.,18,5,Não
+TKT-162,2024-08-16,2024-08-16,Loja Express,Varejo,PDV,Dúvida de uso,Baixa,Fechado,Juliana M.,1,5,Não
+TKT-163,2024-08-19,2024-08-23,Construtora Beta,Construção,ERP,Falha de integração,Crítica,Fechado,Maria L.,54,2,Sim
+TKT-164,2024-08-20,2024-08-22,Hospital São Lucas,Saúde,CRM,Erro no sistema,Alta,Fechado,Carlos A.,20,4,Não
+TKT-165,2024-08-21,2024-08-21,Distribuidora Norte,Varejo,PDV,Dúvida de uso,Baixa,Fechado,Juliana M.,2,5,Não
+TKT-166,2024-08-22,2024-08-26,Grupo Alfa,Indústria,ERP,Configuração,Média,Fechado,Maria L.,22,4,Não
+TKT-167,2024-08-23,2024-08-25,Clínica Saúde Total,Saúde,CRM,Erro no sistema,Alta,Fechado,Carlos A.,26,4,Não
+TKT-168,2024-08-26,2024-08-26,Mercado União,Varejo,PDV,Dúvida de uso,Baixa,Fechado,Juliana M.,1,5,Não
+TKT-169,2024-08-27,2024-08-31,TechParts Ltda,Indústria,ERP,Falha de integração,Crítica,Fechado,Maria L.,60,2,Sim
+TKT-170,2024-08-28,2024-08-30,Farmácia Popular,Saúde,CRM,Configuração,Média,Fechado,Carlos A.,16,5,Não
+TKT-171,2024-08-29,2024-08-29,Loja Express,Varejo,PDV,Dúvida de uso,Baixa,Fechado,Juliana M.,2,5,Não
+TKT-172,2024-08-30,2024-09-03,Construtora Beta,Construção,ERP,Falha de integração,Alta,Fechado,Maria L.,44,3,Sim
+TKT-173,2024-09-02,2024-09-04,Hospital São Lucas,Saúde,CRM,Erro no sistema,Alta,Fechado,Carlos A.,22,4,Não
+TKT-174,2024-09-03,2024-09-03,Distribuidora Norte,Varejo,PDV,Dúvida de uso,Baixa,Fechado,Juliana M.,1,5,Não
+TKT-175,2024-09-04,2024-09-08,Grupo Alfa,Indústria,ERP,Erro no sistema,Alta,Fechado,Maria L.,40,3,Não
+TKT-176,2024-09-05,2024-09-07,Clínica Saúde Total,Saúde,CRM,Configuração,Média,Fechado,Carlos A.,18,5,Não
+TKT-177,2024-09-06,2024-09-06,Mercado União,Varejo,PDV,Dúvida de uso,Baixa,Fechado,Juliana M.,2,5,Não
+TKT-178,2024-09-09,2024-09-13,TechParts Ltda,Indústria,ERP,Falha de integração,Crítica,Fechado,Maria L.,56,2,Sim
+TKT-179,2024-09-10,2024-09-12,Farmácia Popular,Saúde,CRM,Erro no sistema,Alta,Fechado,Carlos A.,20,4,Não
+TKT-180,2024-09-11,2024-09-11,Loja Express,Varejo,PDV,Dúvida de uso,Baixa,Fechado,Juliana M.,1,5,Não
+TKT-181,2024-09-12,2024-09-16,Construtora Beta,Construção,ERP,Falha de integração,Crítica,Fechado,Maria L.,62,2,Sim
+TKT-182,2024-09-13,2024-09-15,Hospital São Lucas,Saúde,CRM,Erro no sistema,Alta,Fechado,Carlos A.,24,4,Não
+TKT-183,2024-09-16,2024-09-16,Distribuidora Norte,Varejo,PDV,Dúvida de uso,Baixa,Fechado,Juliana M.,2,5,Não
+TKT-184,2024-09-17,2024-09-20,Grupo Alfa,Indústria,ERP,Configuração,Média,Fechado,Maria L.,20,4,Não
+TKT-185,2024-09-18,2024-09-20,Clínica Saúde Total,Saúde,CRM,Falha de integração,Alta,Fechado,Carlos A.,30,3,Não
+TKT-186,2024-09-19,2024-09-19,Mercado União,Varejo,PDV,Dúvida de uso,Baixa,Fechado,Juliana M.,1,5,Não
+TKT-187,2024-09-20,2024-09-24,TechParts Ltda,Indústria,ERP,Erro no sistema,Crítica,Fechado,Maria L.,64,2,Sim
+TKT-188,2024-09-23,2024-09-25,Farmácia Popular,Saúde,CRM,Configuração,Média,Fechado,Carlos A.,16,5,Não
+TKT-189,2024-09-24,2024-09-24,Loja Express,Varejo,PDV,Dúvida de uso,Baixa,Fechado,Juliana M.,2,5,Não
+TKT-190,2024-09-25,2024-09-29,Construtora Beta,Construção,ERP,Falha de integração,Alta,Fechado,Maria L.,46,3,Sim
+TKT-191,2024-09-26,2024-09-28,Hospital São Lucas,Saúde,CRM,Erro no sistema,Alta,Fechado,Carlos A.,22,4,Não
+TKT-192,2024-09-27,2024-09-27,Distribuidora Norte,Varejo,PDV,Dúvida de uso,Baixa,Fechado,Juliana M.,1,5,Não
+TKT-193,2024-09-30,2024-10-04,Grupo Alfa,Indústria,ERP,Falha de integração,Crítica,Fechado,Maria L.,58,2,Sim
+TKT-194,2024-10-01,2024-10-03,Clínica Saúde Total,Saúde,CRM,Configuração,Média,Fechado,Carlos A.,18,5,Não
+TKT-195,2024-10-02,2024-10-02,Mercado União,Varejo,PDV,Dúvida de uso,Baixa,Fechado,Juliana M.,2,5,Não
+TKT-196,2024-10-03,2024-10-07,TechParts Ltda,Indústria,ERP,Erro no sistema,Alta,Fechado,Maria L.,36,3,Não
+TKT-197,2024-10-04,2024-10-06,Farmácia Popular,Saúde,CRM,Falha de integração,Alta,Fechado,Carlos A.,28,4,Não
+TKT-198,2024-10-07,2024-10-07,Loja Express,Varejo,PDV,Dúvida de uso,Baixa,Fechado,Juliana M.,1,5,Não
+TKT-199,2024-10-08,2024-10-12,Construtora Beta,Construção,ERP,Falha de integração,Crítica,Fechado,Maria L.,52,2,Sim
+TKT-200,2024-10-09,2024-10-11,Hospital São Lucas,Saúde,CRM,Erro no sistema,Alta,Fechado,Carlos A.,20,4,Não
