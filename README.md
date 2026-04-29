@@ -112,5 +112,5 @@ O dashboard foi construído com base nas queries SQL e apresenta:
 
 ##  Autora
 
-**Juliana** | Estudante de Análise e Desenvolvimento de Sistemas — UNDB  
+**Juliana Silva** | Estudante de Análise e Desenvolvimento de Sistemas — UNDB  
 [LinkedIn](#) • [GitHub](#)
