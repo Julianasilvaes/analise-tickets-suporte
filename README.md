@@ -1,10 +1,9 @@
-# 📊 Análise de Tickets de Suporte — Help Desk 2024
+## Análise de Tickets de Suporte Help Desk 2024
 
 Projeto de análise de dados com foco em **eficiência operacional** e **melhoria contínua** no atendimento técnico. Utiliza SQL (MySQL) para explorar um dataset de 200 chamados de suporte registrados ao longo de 2024, identificando padrões, gargalos e oportunidades de melhoria no processo de atendimento.
 
----
 
-## 🎯 Objetivo
+## Objetivo
 
 Simular o trabalho de um analista de suporte e implementação que precisa responder perguntas de negócio a partir dos dados de atendimento:
 
@@ -14,12 +13,12 @@ Simular o trabalho de um analista de suporte e implementação que precisa respo
 - Como está a performance individual dos analistas?
 - Qual é a tendência mensal de volume de chamados?
 
----
 
-## 🗂️ Estrutura do Projeto
+
+## Estrutura do Projeto
 
 ```
-📁 analise-tickets-suporte/
+analise-tickets-suporte/
 ├── tickets.csv              # Dataset com 200 registros de chamados
 ├── analise_tickets.sql      # Queries de análise organizadas por tema
 ├── dashboard_tickets.pbix   # Dashboard Power BI (visualizações)
@@ -28,7 +27,7 @@ Simular o trabalho de um analista de suporte e implementação que precisa respo
 
 ---
 
-## 🗃️ Dicionário de Dados
+## Dicionário de Dados
 
 | Coluna | Tipo | Descrição |
 |---|---|---|
@@ -48,7 +47,7 @@ Simular o trabalho de um analista de suporte e implementação que precisa respo
 
 ---
 
-## 🔍 Análises Realizadas
+##  Análises Realizadas
 
 ### 1. Visão Geral
 - Total de tickets e distribuição por status
@@ -82,7 +81,7 @@ Critérios definidos:
 
 ---
 
-## 📈 Dashboard Power BI
+## Dashboard Power BI
 
 O dashboard foi construído com base nas queries SQL e apresenta:
 
@@ -94,7 +93,7 @@ O dashboard foi construído com base nas queries SQL e apresenta:
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black)
@@ -102,7 +101,7 @@ O dashboard foi construído com base nas queries SQL e apresenta:
 
 ---
 
-## 💡 Principais Insights
+##  Principais Insights
 
 - **Falhas de integração** têm o maior tempo médio de resolução e a maior taxa de reabertura — ponto crítico para treinamento da equipe
 - **Chamados críticos** da Construtora Beta e TechParts Ltda concentram os maiores desvios de SLA
@@ -111,7 +110,7 @@ O dashboard foi construído com base nas queries SQL e apresenta:
 
 ---
 
-## 👩‍💻 Autora
+##  Autora
 
 **Juliana** | Estudante de Análise e Desenvolvimento de Sistemas — UNDB  
 [LinkedIn](#) • [GitHub](#)
