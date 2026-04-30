@@ -3,7 +3,6 @@
 Projeto de análise de dados voltado à identificação de gargalos operacionais, avaliação de desempenho e melhoria da qualidade no atendimento técnico, utilizando MySQL e Power BI. A análise foi construída a partir de um dataset de 200 chamados de suporte registrados ao longo de 2024, simulando um cenário real de tomada de decisão em ambientes corporativos e identificando padrões, gargalos e oportunidades de melhoria no processo de atendimento.
 
 ## Objetivo
-
 Identificar padrões e problemas operacionais no atendimento de suporte técnico, simulando o trabalho de um analista de suporte ao responder questões de negócio como:
 
 - Quais tipos de chamado geram mais retrabalho?
