@@ -1,30 +1,29 @@
 ## Análise de Tickets de Suporte Help Desk 2024
 
-Projeto de análise de dados com foco em **eficiência operacional** e **melhoria contínua** no atendimento técnico. Utiliza SQL (MySQL) para explorar um dataset de 200 chamados de suporte registrados ao longo de 2024, identificando padrões, gargalos e oportunidades de melhoria no processo de atendimento.
-
+Projeto de análise de dados voltado à identificação de gargalos operacionais, avaliação de desempenho e melhoria da qualidade no atendimento técnico, utilizando MySQL e Power BI. A análise foi construída a partir de um dataset de 200 chamados de suporte registrados ao longo de 2024, simulando um cenário real de tomada de decisão em ambientes corporativos e identificando padrões, gargalos e oportunidades de melhoria no processo de atendimento.
 
 ## Objetivo
 
-Simular o trabalho de um analista de suporte e implementação que precisa responder perguntas de negócio a partir dos dados de atendimento:
+Identificar padrões e problemas operacionais no atendimento de suporte técnico, simulando o trabalho de um analista de suporte ao responder questões de negócio como:
 
 - Quais tipos de chamado geram mais retrabalho?
-- Quais clientes e segmentos têm pior satisfação?
-- O time está cumprindo o SLA por prioridade?
-- Como está a performance individual dos analistas?
+- Quais clientes e segmentos apresentam pior satisfação?
+- O SLA está sendo cumprido conforme a prioridade?
+- Como é o desempenho individual dos analistas?
+- Existe impacto da reabertura na satisfação do cliente?
 - Qual é a tendência mensal de volume de chamados?
-
-
 
 ## Estrutura do Projeto
 
 ```
 analise-tickets-suporte/
-├── tickets.csv              # Dataset com 200 registros de chamados
-├── analise_tickets.sql      # Queries de análise organizadas por tema
-├── dashboard_tickets.pbix   # Dashboard Power BI (visualizações)
-└── README.md                # Documentação do projeto
+├── ingressos.csv              # Dataset com 200 registros
+├── analise_tickets.sql        # Queries de análise
+├── dashboard_tickets.pbix     # Dashboard Power BI
+├── painel.html                # Versão web do dashboard
+├── imagens/                   # Prints do dashboard
+└── README.md
 ```
-
 ---
 
 ## Dicionário de Dados
@@ -46,6 +45,15 @@ analise-tickets-suporte/
 | `reaberto` | VARCHAR | Indica se o ticket foi reaberto (Sim/Não) |
 
 ---
+
+## Antes da análise, foram realizadas etapas de preparação:
+
+- Padronização de categorias (tipo de chamado, prioridade, status)
+- Verificação e tratamento de valores inconsistentes
+- Criação de métricas derivadas:
+- Tempo de resolução
+- Cumprimento de SLA
+- Taxa de reabertura 
 
 ##  Análises Realizadas
 
@@ -92,6 +100,9 @@ O dashboard foi construído com base nas queries SQL e apresenta:
 - **Mapa de calor**: segmento × prioridade
 
 ---
+### Visão Geral
+![Dashboard 1](./imagens/DashboardProjectIMG1.png)
+![Dashboard 2](./imagens/DashboardProjectIMG2.png)
 
 ## Tecnologias Utilizadas
 
@@ -101,16 +112,21 @@ O dashboard foi construído com base nas queries SQL e apresenta:
 
 ---
 
-##  Principais Insights
+## Principais Insights
 
-- **Falhas de integração** têm o maior tempo médio de resolução e a maior taxa de reabertura — ponto crítico para treinamento da equipe
-- **Chamados críticos** da Construtora Beta e TechParts Ltda concentram os maiores desvios de SLA
-- Tickets **reabertos** têm satisfação média significativamente menor, reforçando a importância da resolução na primeira chamada (FCR)
-- A **tendência mensal** mostra aumento de volume no 2º semestre, sugerindo sazonalidade no suporte
-
+- Falhas de integração apresentam maior tempo de resolução e maior taxa de reabertura, configurando o principal gargalo operacional  
+- Chamados críticos de clientes específicos, como Construtora Beta e TechParts Ltda, concentram os maiores desvios de SLA  
+- Tickets reabertos apresentam menor satisfação média, indicando baixa efetividade na resolução inicial  
+- O volume de chamados cresce no segundo semestre, sugerindo possível sazonalidade no suporte  
 ---
+
+## Conclusões e Recomendações
+- Priorizar melhorias em falhas de integração (processo ou sistema)
+- Investir em treinamento para reduzir reabertura de chamados
+- Monitorar clientes com maior volume de tickets críticos
+- Revisar estratégias de atendimento em períodos de maior demanda
 
 ##  Autora
 
-**Juliana Silva** | Estudante de Análise e Desenvolvimento de Sistemas — UNDB  
+**Juliana Silva** | Estudante de Análise e Desenvolvimento de Sistemas   
 [LinkedIn](#) • [GitHub](#)
